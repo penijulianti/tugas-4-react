@@ -1,0 +1,14 @@
+.container{
+    display:flex;
+    flex-direction:row;
+    padding: 20px;
+    margin:5%;
+    color: beige;
+}
+h1{
+   text-align: center;
+}
+p{
+    color:coral;
+    text-align: justify;
+}
